@@ -81,5 +81,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Anas** – [GitHub Profile](https://github.com/your-username)  
+**Anas** – [GitHub Profile](https://github.com/anaselshawa)  
 Feel free to reach out or fork the project!
