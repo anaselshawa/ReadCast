@@ -1,0 +1,62 @@
+# Ignore build outputs
+/build/
+/captures/
+/outputs/
+
+# Local configuration
+/local.properties
+
+# Android Studio/IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Kotlin/Java/Android specific
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.ap_ 
+*.dex
+*.o
+*.so
+*.tmp
+*.temp
+*.hprof
+
+# Jetpack Compose previews
+.idea/**/preview.xml
+.idea/**/render.xml
+
+# Compose compiler reports
+compose-compiler/
+
+# Cache or generated files
+.cxx/
+.externalNativeBuild/
+.navigation/
+intermediates/
+incremental/
+generated/
+
+# Lint, crash reports, benchmarking
+lint/intermediates/
+benchmarkData/
+*.ec
+
+# Secret keys (if any)
+secrets.properties
+keys.properties
+
+# KSP/KAPT
+ksp/
+kapt/
+
+# Unit test reports
+test-results/
+test-report/
