@@ -3,7 +3,7 @@
 
 **ReadCast** is a sleek and modern Android application that combines the world of **podcasts** and **audiobooks** in one seamless, user-friendly interface. Designed with Jetpack Compose and built for performance and elegance, ReadCast is your one-stop app for staying informed and entertained.
 
-![Screenshot](./Users/user/Desktop/Screenshot_20250705_185844.png)
+![Screenshot](assets/Screenshot_20250705_185844.png)
 
 ---
 
