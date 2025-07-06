@@ -49,7 +49,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/readcast.git
+git clone https://github.com/anaselshawa/readcast.git
 cd readcast
 ./gradlew installDebug
 ```
